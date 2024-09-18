@@ -22,7 +22,7 @@ criaCartao(
     'Monte Everest'
 )
 criaCartao(
-    'História'
-    'Qual inventor é conhecido como pai da aviação?'
+    'História',
+    'Qual inventor é conhecido como pai da aviação?',
     'Santos Dumont'
 )
